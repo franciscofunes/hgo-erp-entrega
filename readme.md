@@ -1,4 +1,4 @@
-# Web design for an University assigment :+1:
+# Web design for University assigment :+1:
 
 This repository is a web a develop for a course call "ORGANIZATIONAL MANAGEMENT TOOLS", I used a template of [Colorlib](https://colorlib.com/) and modified it for my personal use.
 
